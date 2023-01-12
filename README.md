@@ -1,10 +1,5 @@
 Blog: https://blog.arthur1.dev/
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arthur1&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1&layout=compact&langs_count=10&hide=Blade,Hack" />
-</a>
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur1&theme=monokai)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arthur1&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arthur1&theme=monokai)
