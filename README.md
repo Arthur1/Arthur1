@@ -1,5 +1,3 @@
-Japanese Idol, Software Engineer, Audio Engineer, and Researcher
-
 Blog: https://blog.arthur1.dev/
 
 <!--
